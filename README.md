@@ -23,7 +23,7 @@ query {
 
 ### Behavior
 
-When the line ``.UseField<MaintenanceModeMiddleware>();`` is not commented out, the console output is:
+When the line ``.UseField<MaintenanceModeMiddleware>();`` in `Program.cs` is not commented out, the console output is:
 
 ```
 root => new Book() { Id = root.Id }
