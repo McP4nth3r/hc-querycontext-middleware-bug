@@ -1,6 +1,6 @@
-﻿using HC_Base.DomainModels;
+﻿using ConsoleApp12.DomainModels;
 
-namespace HC_Base.Schema;
+namespace ConsoleApp12.Schema;
 
 [ObjectType<Book>]
 public static partial class BookNode

@@ -1,6 +1,6 @@
 ﻿using HotChocolate.Resolvers;
 
-namespace HC_Base.Schema;
+namespace ConsoleApp12.Schema;
 
 public class MaintenanceModeMiddleware
 {

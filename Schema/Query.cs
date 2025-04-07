@@ -1,6 +1,8 @@
-﻿using GreenDonut.Data;
-using HC_Base.DomainModels;
+﻿using ConsoleApp12.DomainModels;
+using GreenDonut.Data;
 using HotChocolate.Execution.Processing;
+
+namespace ConsoleApp12.Schema;
 
 [QueryType]
 public class Query
